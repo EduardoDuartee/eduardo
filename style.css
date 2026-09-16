@@ -28,6 +28,6 @@ input
 }
 button
 {
-    align-items: center;
+    margin-left: 50%;
     padding: 10px auto;
 }
