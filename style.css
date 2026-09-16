@@ -29,6 +29,5 @@ input
 button
 {
     margin-left: 45%;
-    width: 20px;
-    height: 15px;
+    padding-bottom: 10px;
 }
