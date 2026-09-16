@@ -26,3 +26,8 @@ input
     border-bottom: 7px;
     border-radius: 7px;
 }
+button
+{
+    align-items: center;
+    padding: 10px auto;
+}
