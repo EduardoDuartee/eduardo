@@ -33,5 +33,6 @@ button
     align-items: center;
     width: 200px;
     align-items: center;
+    padding: auto;
     text-align: center;
 }
